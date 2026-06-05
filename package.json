@@ -3,12 +3,13 @@
   "version": "2.0.1-kcm.1",
   "main": "index.js",
   "scripts": {
+    "build": "companion-module-build",
     "test": "jest"
   },
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/mkammes/companion-module-lgtv-display.git"
+    "url": "git+https://github.com/mkammes/companion-module-lgtv-display-1.git"
   },
   "dependencies": {
     "@companion-module/base": "^1.10.0",
