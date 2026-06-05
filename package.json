@@ -9,7 +9,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/mkammes/companion-module-lgtv-display-1.git"
+    "url": "git+https://github.com/mkammes/companion-module-lgtv-display-fixed.git"
   },
   "dependencies": {
     "@companion-module/base": "^1.10.0",
